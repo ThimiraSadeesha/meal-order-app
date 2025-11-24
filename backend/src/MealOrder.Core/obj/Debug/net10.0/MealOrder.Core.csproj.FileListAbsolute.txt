@@ -9,3 +9,4 @@
 /Users/thimira/Developer/Personal/C#/web-app/MealOrderApp/backend/src/MealOrder.Core/obj/Debug/net10.0/refint/MealOrder.Core.dll
 /Users/thimira/Developer/Personal/C#/web-app/MealOrderApp/backend/src/MealOrder.Core/obj/Debug/net10.0/MealOrder.Core.pdb
 /Users/thimira/Developer/Personal/C#/web-app/MealOrderApp/backend/src/MealOrder.Core/obj/Debug/net10.0/ref/MealOrder.Core.dll
+/Users/thimira/Developer/Personal/C#/web-app/MealOrderApp/backend/src/MealOrder.Core/obj/Debug/net10.0/MealOrder.Core.sourcelink.json
