@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("98456a45-61b7-4646-a7a9-d61ea0aa1df2")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MealOrder.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df94d803d39e84e94ce97424c84e5e2b1411f77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a0c56ae30d17eca118e0943c41ef22f5c4b47f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MealOrder.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MealOrder.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
